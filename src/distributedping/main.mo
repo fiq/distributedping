@@ -1,5 +1,5 @@
 actor {
-    public func greet(name : Text) : async Text {
-        return "Hello, " # name # "!";
+    public func increment() : async Nat64 {
+        return 10;
     };
 };

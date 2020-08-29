@@ -9,7 +9,7 @@
         "distributedping"
       ],
       "frontend": {
-        "entrypoint": "src/distributedping_assets/public/index.js"
+        "entrypoint": "src/distributedping_assets/public/index.jsx"
       },
       "source": [
         "src/distributedping_assets/assets",
