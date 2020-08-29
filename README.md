@@ -16,7 +16,14 @@ npm i
 dfx start &
 dfx canister create --all
 dfx build
+dfx canister install --all 
+
+# After modifications
+dfx canister install --all --mode='reinstall'
 ```
+
+Access the application with the generated cansiter id. See Motoko / Dfinity [Docs](https://sdk.dfinity.org/docs/quickstart/quickstart.html)
+for more info
 
 > :warning: **The Attacked Dockerfile is still WIP**
 
