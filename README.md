@@ -1,4 +1,4 @@
-# distributedbinary
+# distributedping with Motoko
 
 This is an experiment to test out builds for the distributed
 [internet computer](https://dfinity.org/) and how its protocol works etc. The goal 
